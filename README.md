@@ -15,7 +15,6 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/manuel de jesús toledo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuel de jesús toledo" height="20" width="30" /></a>
-<a href="https://instagram.com/toledoplay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toledoplay" height="20" width="30" /></a>
 </p>
 
 
@@ -24,7 +23,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30"       height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30"          height="30"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap"          width="30" height="30"/> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"             width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
 </p>
@@ -32,7 +30,7 @@
 ## 📊 Data Analytics
 
 <p align="left"> 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2019_present.svg"
+   <img src="https://github.com/user-attachments/assets/eea9a7e8-ee82-4c62-8bbd-db9e0f777bd4"
      alt="Microsoft Excel"
      width="30"
      height="30"/>
@@ -40,10 +38,12 @@
      alt="Power BI"
      width="30"
      height="30"/>
-     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Microsoft_Power_Automate.svg"
-     alt="Microsoft Power Automate"
-     width="30"
-     height="30"/>
+    <img  src="https://github.com/user-attachments/assets/c99c3052-fb2d-4457-8068-fdcd2c750745"
+      alt="Power Automate"
+        width="30" 
+       height="30" 
+       />
+
 </p>
   
   
