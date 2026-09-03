@@ -21,32 +21,26 @@
 ## 💻 Frontend Development
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30"       height="30"/>
+    &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30"          height="30"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap"          width="30" height="30"/> 
+    &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"             width="30" height="30"/>
+    &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
 </p>
 
-## 📊 Data Analytics
+  
+ ## 📊 Data Analytics
 
-<p align="left"> 
-   <img src="https://github.com/user-attachments/assets/eea9a7e8-ee82-4c62-8bbd-db9e0f777bd4"
-     alt="Microsoft Excel"
-     width="30"
-     height="30"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
-     alt="Power BI"
-     width="30"
-     height="30"/>
-    <img  src="https://github.com/user-attachments/assets/c99c3052-fb2d-4457-8068-fdcd2c750745"
-      alt="Power Automate"
-        width="30" 
-       height="30" 
-       />
-
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/eea9a7e8-ee82-4c62-8bbd-db9e0f777bd4" alt="Microsoft Excel" width="30" height="30"/>
+    &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="30" height="30"/>
+    &nbsp;&nbsp;
+  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="30" height="30"/>
+    &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/c99c3052-fb2d-4457-8068-fdcd2c750745" alt="Power Automate" width="30" height="30"/>
 </p>
-  
-  
 
 ## 🖥️My carreer
 **Schools**
